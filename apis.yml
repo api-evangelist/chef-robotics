@@ -1,0 +1,85 @@
+aid: chef-robotics
+name: Chef Robotics
+description: >-
+  Chef Robotics is a San Francisco, California physical-AI company building
+  AI-enabled robots for high-mix food production. Its core product is an
+  NSF-certified food-assembly robot that picks, scoops, and deposits a wide
+  range of ingredients — fresh, cooked, IQF, sauces, leafy greens, mixed
+  vegetables, and discrete piece items — into trays, burritos, wraps, pizza
+  bases, and other containers on conveyor lines. The robots are powered by
+  ChefOS, a proprietary Generalized Food Manipulation Model trained on tens of
+  millions of real-world servings and tens of thousands of hours of production
+  data, combining vision, decision-making, and robot control across a See /
+  Think / Act stack with continuous Fleet Learning. Chef Robotics sells via a
+  Robotics-as-a-Service (RaaS) model that bundles hardware, software updates,
+  24/7 monitoring, and customer success. Deployed customers include Amy's
+  Kitchen, Sunbasket, Cafe Spice, and Chef Bombay, with the fleet having
+  produced 98+ million servings across the US, Canada, and Europe. The
+  company is venture-backed (Kleiner Perkins, Avataar Ventures-led $43M
+  Series A, Bloomberg Beta, Construct Capital) and serves frozen meals,
+  fresh meals, co-manufacturing, D2C meal delivery, medically tailored
+  meals, meatpacking, airline catering, and foodservice verticals. There is
+  no public developer API, SDK, or open-source release for ChefOS — the
+  platform is operated as a closed, fleet-managed service on Chef-owned
+  hardware deployed inside customer facilities.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Robotics
+  - Food Robotics
+  - Food Manufacturing
+  - Meal Assembly
+  - Physical AI
+  - Embodied AI
+  - Vision Language Action
+  - Foundation Models
+  - ChefOS
+  - Robotics As A Service
+  - Manipulation
+  - Manufacturing Automation
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/chef-robotics/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.chefrobotics.ai
+  - type: ArtificialIntelligence
+    url: https://www.chefrobotics.ai/artificial-intelligence
+  - type: Solutions
+    url: https://www.chefrobotics.ai/solutions
+  - type: Industries
+    url: https://www.chefrobotics.ai/industries
+  - type: CaseStudies
+    url: https://www.chefrobotics.ai/case-studies
+  - type: CustomerImpact
+    url: https://www.chefrobotics.ai/customer-impact
+  - type: Company
+    url: https://www.chefrobotics.ai/company
+  - type: Resources
+    url: https://www.chefrobotics.ai/resources
+  - type: Blog
+    url: https://www.chefrobotics.ai/blog
+  - type: Careers
+    url: https://www.chefrobotics.ai/careers
+  - type: Contact
+    url: https://www.chefrobotics.ai/contact
+  - type: GitHub
+    url: https://github.com/chef-robotics
+  - type: Twitter
+    url: https://twitter.com/chefrobotics
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/chef-robotics
+  - type: Support
+    url: mailto:support@chefrobotics.ai
+  - type: Sales
+    url: mailto:sales@chefrobotics.ai
+  - type: Press
+    url: mailto:press@chefrobotics.ai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
