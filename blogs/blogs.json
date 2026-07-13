@@ -2,19 +2,14 @@
   "repo": "chef-robotics",
   "feeds": [
     {
-      "source": "https://www.chefrobotics.ai/blog",
-      "feed_url": "",
-      "saved": 1,
-      "method": "agent-scrape"
-    },
-    {
       "source": "https://www.chefrobotics.ai/resources",
-      "feed_url": "",
+      "feed_url": "https://www.chefrobotics.ai/resources",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "post_count": 4,
-  "fetched": "2026-06-27T12:31:48Z",
+  "post_count": 5,
+  "fetched": "2026-07-11T11:50:51Z",
   "agent_pulled": "2026-06-27"
 }
