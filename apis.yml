@@ -23,6 +23,17 @@ description: >-
   platform is operated as a closed, fleet-managed service on Chef-owned
   hardware deployed inside customer facilities.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
