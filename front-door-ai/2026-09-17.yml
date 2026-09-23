@@ -1,0 +1,26 @@
+# Front Door AI Index — chef-robotics — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: chef-robotics
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.chefrobotics.ai
+  final_host: www.chefrobotics.ai
+  ownership: own
+  owner: chef-robotics
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 8
+  host_score: 8
+  density: 12.25
+  words: 653
+  tiers:
+    agentic: 0
+    core: 8
+    model: 0
+  ambiguous: 7
+  top_terms:
+    AI: 8
+    automation: 7
